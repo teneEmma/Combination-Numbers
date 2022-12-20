@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GuyNumbers</string>
+    <string name="instruction_number_element">Nombre D\'éléments Pour Faire Le Calcul</string>
+    <string name="enter_elements">Entrer Les Elements</string>
+    <string name="nth_element">ième Element</string>
+    <string name="number">2</string>
+    <string name="add">Valider</string>
+    <string name="create">Creer Le Fichier Excel</string>
+    <string name="file_name">Nom du fichier</string>
+    <string name="chosen_elements">0_0_0</string>
+    <string name="n">N°</string>
+    <string name="cancel">Annuler</string>
+    <string name="number_not_valide">"Ce Nombre N'est Pas Valide"</string>
+    <string name="permission_needed">Besoin de permissions pour continuer</string>
+    <string name="grant_permission">ACCORDER</string>
+    <string name="go_seetings_permission">Allez Dans Parametrès Pour Accorder L\'ACCESS AUX FICHIERS</string>
+    <string name="go">ALLEZ</string>
+    <string name="permission_problem">Probleme de Permission: </string>
+    <string name="saved">Sauvegardé avec success</string>
+</resources>
